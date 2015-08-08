@@ -39,3 +39,4 @@ $ git add yourname.md
 $ git commit -m "a comment"
 $ git push origin master
 ```
+Submit a pull request
