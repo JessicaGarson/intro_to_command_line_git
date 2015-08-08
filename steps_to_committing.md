@@ -1,5 +1,7 @@
 #Steps to Committing from the Command Line
 
+[Create a Github Account](http://www.github.com)
+
 Fork the repo
 
 [Make Sure You Have git downloaded](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
