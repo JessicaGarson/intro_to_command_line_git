@@ -27,7 +27,7 @@ $ git pull upstream master
 $ git push origin
 ```
 
-7.  A few additional stepst to make sure you have the most current version of the repository
+A few additional stepst to make sure you have the most current version of the repository
 ```
 $ git fetch upstream
 $ git merge upstream/master
